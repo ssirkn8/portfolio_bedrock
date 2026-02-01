@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
+
+# Thumbnails
+Thumbs.db
+
+# Temp
+jakarta-flood
